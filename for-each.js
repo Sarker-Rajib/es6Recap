@@ -6,10 +6,10 @@ friends.forEach(friend => console.log(friend));
 
 
 const products = [
-   {id: 1, name: 'laptop1', price: 44500},
-   {id: 2, name: 'laptop2', price: 44501},
-   {id: 3, name: 'laptop3', price: 44502},
-   {id: 4, name: 'laptop4', price: 44503}
+   {id: 1, name: 'laptop1', price: 4500},
+   {id: 2, name: 'laptop2', price: 4501},
+   {id: 3, name: 'laptop3', price: 4502},
+   {id: 4, name: 'laptop4', price: 4503}
 ];
 
 products.forEach(product => {
